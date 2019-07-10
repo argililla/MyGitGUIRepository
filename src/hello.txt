@@ -1,1 +1,3 @@
 Another example file.
+
+Hello again. Other minor changes to commit.
